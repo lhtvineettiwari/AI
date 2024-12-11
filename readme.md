@@ -11,4 +11,4 @@
 
 ## OpenSource LLM Models
 ### Audio Models
-1. A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching [F5-TTS:](https://github.com/SWivid/F5-TTS)
+1. A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching [F5-TTS](https://github.com/SWivid/F5-TTS)
