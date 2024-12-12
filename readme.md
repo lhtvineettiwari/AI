@@ -2,6 +2,7 @@
 
 ## AI Agents Framework
 
+1. [AG2 Reasoning Agents](https://ag2ai.github.io/ag2/blog/2024/12/02/ReasoningAgent2/)
 1. [Bee Agent Framework](https://github.com/i-am-bee/bee-agent-framework)
 2. [Codel](https://github.com/semanser/codel)
 3. [Langchain](https://python.langchain.com/v0.1/docs/modules/agents/)
