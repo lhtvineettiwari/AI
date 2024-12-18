@@ -15,3 +15,10 @@
 ### Audio Models
 1. A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching [F5-TTS](https://github.com/SWivid/F5-TTS)
 2. Moshi: a speech-text foundation model for real time dialogue [Moshi](https://github.com/kyutai-labs/moshi)
+
+## AI Coding Agents (Tested)
+### Open Source/Free
+1. Cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. [Cline](https://github.com/cline/cline)
+
+### Paid(Free Trial/Limited Queries)
+1. Windsurf: The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together. [Windsurf](https://codeium.com/windsurf)
