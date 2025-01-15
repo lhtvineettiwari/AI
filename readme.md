@@ -22,3 +22,7 @@
 
 ### Paid(Free Trial/Limited Queries)
 1. Windsurf: The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together. [Windsurf](https://codeium.com/windsurf)
+
+## OpenSource Similar to Perplexity 
+1. [Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+2. [Scira](https://github.com/zaidmukaddam/scira)
