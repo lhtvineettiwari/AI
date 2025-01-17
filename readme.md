@@ -34,3 +34,4 @@
 4. Efficient Portrait Animation with Stitching and Retargeting Control
  [LivePortrait](https://github.com/KwaiVGI/LivePortrait)
 5. Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation [hallo](https://github.com/fudan-generative-vision/hallo)
+6. Latent-space synchronization for open-domain realistic talking-face generation [LatentSync](https://github.com/bytedance/LatentSync)
