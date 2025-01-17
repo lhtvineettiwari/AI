@@ -26,3 +26,10 @@
 ## OpenSource Similar to Perplexity 
 1. [Perplexica](https://github.com/ItzCrazyKns/Perplexica)
 2. [Scira](https://github.com/zaidmukaddam/scira)
+
+## OpenSource Models creating AI Avatar
+1. [EchoMimicV2](https://github.com/antgroup/echomimic_v2)
+2. [Fooocus](https://github.com/lllyasviel/Fooocus)
+3. [SadTalker](https://github.com/OpenTalker/SadTalker)
+4. [LivePortrait](https://github.com/KwaiVGI/LivePortrait)
+5. [hallo](https://github.com/fudan-generative-vision/hallo)
