@@ -28,8 +28,9 @@
 2. [Scira](https://github.com/zaidmukaddam/scira)
 
 ## OpenSource Models creating AI Avatar
-1. [EchoMimicV2](https://github.com/antgroup/echomimic_v2)
+1. Towards Striking, Simplified, and Semi-Body Human Animation [EchoMimicV2](https://github.com/antgroup/echomimic_v2)
 2. [Fooocus](https://github.com/lllyasviel/Fooocus)
-3. [SadTalker](https://github.com/OpenTalker/SadTalker)
-4. [LivePortrait](https://github.com/KwaiVGI/LivePortrait)
-5. [hallo](https://github.com/fudan-generative-vision/hallo)
+3. Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation [SadTalker](https://github.com/OpenTalker/SadTalker)
+4. Efficient Portrait Animation with Stitching and Retargeting Control
+ [LivePortrait](https://github.com/KwaiVGI/LivePortrait)
+5. Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation [hallo](https://github.com/fudan-generative-vision/hallo)
