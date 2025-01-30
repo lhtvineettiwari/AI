@@ -36,3 +36,4 @@
 5. Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation [hallo](https://github.com/fudan-generative-vision/hallo)
 6. Latent-space synchronization for open-domain realistic talking-face generation [LatentSync](https://github.com/bytedance/LatentSync)
 7. This node provides lip-sync capabilities in ComfyUI using ByteDance's LatentSync model. It allows you to synchronize video lips with audio input. [ComfyUI-LatentSyncWrapper](https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper)
+8. EMO2: End-Effector Guided Audio-Driven Avatar Video Generation. [EMO2](https://humanaigc.github.io/emote-portrait-alive-2/)
